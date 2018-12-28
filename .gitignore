@@ -1,0 +1,5 @@
+.vscode/*
+geckodriver
+geckodriver.log
+ghostdriver.log
+phantomjs-2.1.1-macosx/
